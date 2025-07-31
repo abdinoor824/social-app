@@ -8,7 +8,7 @@ const Home = () => {
       <div className={styles.textContainer}>
         <h1 className={styles.title}>Creative Thoughts Agency.</h1>
         <p className={styles.desc}>
-         we transform abstract ideas into captivating realities. Our passion for innovation meets a deep understanding of storytelling, design, and strategy. Whether you're launching a brand, refreshing your identity, or dreaming big—we're here to make it happen.
+         we transform abstract ideas into captivating realities. Our passion for innovation meets a deep understanding of storytelling, design, and strategy. Whether you&apos;re launching a brand, refreshing your identity, or dreaming big—we&apos;re here to make it happen.
         </p>
         <div className={styles.buttons}>
           <Link href="/create" className={styles.button}>Create Post</Link>

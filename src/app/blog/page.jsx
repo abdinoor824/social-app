@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect, useState } from "react";
-import PostCard from "@/components/postCard/postCard";
+import PostCard from "@/components/postcard/postCard";
 import styles from "./blog.module.css";
 
 const BlogPage = () => {
